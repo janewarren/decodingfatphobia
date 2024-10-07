@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains code and data for our research paper on [brief description of research topic]. The project focuses on image generation and analysis, utilizing multiple raters' assessments.
+This repository contains code and consolidated data for our research paper on Decoding Fatphobia: Examining Anti-Fat and Pro-Thin Bias in AI-Generated Images.
 
 ## Files Description
 
