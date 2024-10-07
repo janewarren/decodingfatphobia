@@ -33,8 +33,8 @@ def UseDALLe_then_save_Image(prompt, file_path):
         file.write(image_data)
     print(f"Image saved to {file_path}")
 
-prompt = 'impure'
-n_images = 100
+prompt = 'impure' # updated accordingly
+n_images = 100 # updated accordingly
 
 selected_prompt, corresponding_path = path_finder(prompt)
 
