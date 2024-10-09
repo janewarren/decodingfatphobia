@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains code and consolidated data for our research paper Decoding Fatphobia: Examining Anti-Fat and Pro-Thin Bias in AI-Generated Images.
+This repository contains code and consolidated data for our research paper **Decoding Fatphobia: Examining Anti-Fat and Pro-Thin Bias in AI-Generated Images**.
 
 ## Files Description
 
