@@ -1,4 +1,4 @@
-# Decoding Fatphobia
+# Decoding Fatphobia Source Code Repository
 
 ## Overview
 
