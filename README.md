@@ -1,8 +1,8 @@
-# Anonymized Research Repository
+# Decoding Fatphobia
 
 ## Overview
 
-This repository contains code and consolidated data for our research paper.
+This repository contains code and consolidated data for our research paper Decoding Fatphobia: Examining Anti-Fat and Pro-Thin Bias in AI-Generated Images.
 
 ## Files Description
 
