@@ -1,0 +1,30 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Warren"
+  given-names: "Jane"
+  orcid: "https://orcid.org/0009-0009-9166-3910"
+- family-names: "Martinez-Lopez"
+  given-names: "Fernando"
+  orcid: "https://orcid.org/0009-0007-2208-2691"
+title: "Decoding Fatphobia Code Repository"
+version: 1.0.0
+date-released: 2025-01-23
+url: "https://github.com/janewarren/decodingfatphobia"
+// preferred-citation:
+// type: misc
+//   authors:
+//  - family-names: "Warren"
+//   given-names: "Jane"
+//   orcid: "https://orcid.org/0009-0009-9166-3910"
+// - family-names: "Martinez-Lopez"
+//   given-names: "Fernando"
+//   orcid: "https://orcid.org/0009-0007-2208-2691"
+//   journal: "F"
+//   month: 9
+//   start: 1 # First page number
+//   end: 10 # Last page number
+//   title: "My awesome research software"
+//   issue: 1
+//   volume: 1
+//   year: 2021
