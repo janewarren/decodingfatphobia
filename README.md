@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains code and consolidated data for our research paper **Decoding Fatphobia: Examining Anti-Fat and Pro-Thin Bias in AI-Generated Images**.
+This repository contains code and consolidated data for our research paper **Decoding Fatphobia: Examining Anti-Fat and Pro-Thin Bias in AI-Generated Images**, to appear in the _Findings of the Association for Computational Linguistics, NAACL 2025._
 
 ## Files Description
 
@@ -29,4 +29,4 @@ Stores the raw data files:
 - A consolidated final dataset combining all raters' assessments
 - Instructions the raters followed
 
-[Dataset Link](https://zenodo.org/records/13871978?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImM5NzcxNzJiLWIxNWEtNDhjNC1hOTY4LTE3ZjhlMmIwNTMwOCIsImRhdGEiOnt9LCJyYW5kb20iOiI4OTE5ZTA5OWRjYmQxZDVhMjAxOTY1ZjFkMTAwMGI5MiJ9.7QyPXvP8W28lH-1FqpKmVfIUEGPE-bQOfPmtDpM30PyRXjTtL4PPZQcGaMpnsf_YhmR9wfQ46ORu5YDb--L7kw)
+[Dataset Link](10.5281/zenodo.13871977)
